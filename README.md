@@ -13,5 +13,5 @@ NOTE: I tried to keep the style as close as possible to to the original site.
 
 https://responsibleparty.github.io/I-Code-Refactor/
 
-![splash-page](.assets/images/FinalSite.png)
+![splash-page](assets/images/FinalSite.png)
 
