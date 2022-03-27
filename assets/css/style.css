@@ -30,6 +30,7 @@ nav {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    position: relative;
 }
 
 nav a {
@@ -45,9 +46,10 @@ p {
 }
 
 .bannerImage {
-    height: 100%;
+    height: 800px;
     width: 100%;
-    margin-bottom: 45px;
+    margin-bottom: 25px;
+    object-fit: cover;
 }
 
 main {
@@ -70,12 +72,12 @@ main article h2 {
     font-size: 36px;
 }
 
-.float-left {
+.seoImage, .marketingImage {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.mgmtImage {
     float: right;
     margin-left: 25px;
 }
